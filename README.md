@@ -4,7 +4,7 @@ Loja virtual fictícia com temática geek, desenvolvida para praticar HTML e CSS
 
 ## 🔗 Acesse o projeto
 
-👉 
+👉 https://andressadonrodrigues08.github.io/Projeto-loja-neo/index.html 
 
 ---
 
